@@ -232,31 +232,6 @@ go run main.go  # Restart backend
 - [Anthropic Claude API](https://docs.anthropic.com/)
 - [React Documentation](https://react.dev)
 
-### Community
-- **Discord**: #hackathon-help
-- **GitHub Issues**: Report bugs and feature requests
-- **Examples**: Check `examples/` directory for more tools
-
----
-
-## 🎯 Demo Strategy
-
-### 5-Minute Demo Flow
-1. **Problem**: "Managing finances is complex and time-consuming"
-2. **Solution**: Show natural language banking in action
-3. **Live Demo**: Real queries with actual banking data
-4. **Highlight AI**: Emphasize conversational intelligence
-5. **Impact**: "This makes banking delightful and accessible"
-
-### Key Features to Demo
-- ✅ Natural balance checking
-- ✅ Spending pattern analysis  
-- ✅ Money transfer with confirmation flow
-- ✅ Subscription detection insights
-- ✅ Budget tracking recommendations
-
----
-
 ## 📄 License
 
 MIT License - see [LICENSE](../../LICENSE) for details.
